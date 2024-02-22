@@ -11,9 +11,8 @@ const Logo = (props: ILogoProps) => {
     : 'font-semibold text-xl';
 
   return (
-    <span className={`text-gray-900 inline-flex items-center ${fontStyle}`}>
-      <img style={{width: '300px'}} src="../logo.png"></img>
-
+    <span className={`text-gray-900 inline-flex items-center justify-center ${fontStyle}`}>
+      <img style={{width: '300px'}} src="../logo.png" alt="Logo"></img>
     </span>
   );
 };
