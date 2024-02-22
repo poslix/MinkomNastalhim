@@ -6,7 +6,7 @@ const FooterCopyright = () => (
     <span role="img" aria-label="Love">
       ♥
     </span>{' '}
-    by <a href="https://www.qrlix.com"> <img style={{ width: '60px', display: 'inline' }} src="../qrlix.png"></img></a> 
+    by <a href="https://www.gtp.om"> <img style={{ width: '60px', display: 'inline' }} src="../gtp.png"></img></a> 
     {/*
      * PLEASE READ THIS SECTION
      * We'll really appreciate if you could have a link to our website
